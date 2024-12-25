@@ -15,8 +15,15 @@ I'm a **Ph.D. Candidate in Computer Science** at the *University of Missouri-Col
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahadyRayhan&show_icons=true&theme=radical&count_private=true&bg_color=181818&title_color=27AE60&text_color=FFFFFF&icon_color=27AE60&border_color=44475A" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadyRayhan&theme=radical&background=181818&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=27AE60&sideLabels=FFFFFF&dates=FFFFFF&fire=27AE60&ring=27AE60&border=44475A" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahadyRayhan&show_icons=true&theme=radical&count_private=true&bg_color=181818&title_color=27AE60&text_color=FFFFFF&icon_color=27AE60&border_color=44475A" alt="GitHub Stats" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadyRayhan&theme=radical&background=181818&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=27AE60&sideLabels=FFFFFF&dates=FFFFFF&fire=27AE60&ring=27AE60&border=44475A" alt="GitHub Streak" height="195"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mahadyRayhan">
+    <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahadyRayhan&show_icons=true&theme=radical&count_private=true&bg_color=181818&title_color=27AE60&text_color=FFFFFF&icon_color=27AE60&border_color=44475A" />
+    <img width="445" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadyRayhan&theme=radical&background=181818&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=27AE60&sideLabels=FFFFFF&dates=FFFFFF&fire=27AE60&ring=27AE60&border=44475A" />
+  </a>
 </p>
 
 ### ⚡ Recent Highlights (2024)
