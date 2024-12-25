@@ -39,14 +39,13 @@ Hi, I'm **Mahady Hasan Rayhan**, a Ph.D. Computer Science student passionate abo
 
 ---
 
-### 📩 Connect With Me
-- 📧 Email: [mhr6wb@missouri.edu](mailto:mhr6wb@missouri.edu)
-- 🔗 LinkedIn: [Mahady Hasan Rayhan](https://linkedin.com/in/mahadyRayhan)
-- 🧑‍💻 GitHub: [mahadyRayhan](https://github.com/mahadyRayhan)
+### 📩 Connect With Me  
 
-Here's an improved design for the **Technical Skills** section to make it more visually appealing and easier to scan. By using icons and proper formatting, the skills will stand out better:
-
----
+| **Contact Method** | **Link** |
+|--------------------|----------|
+| <div align="left" style="display: flex; align-items: center;">![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)</div> | <div align="left" style="display: flex; align-items: center;">[mhr6wb@missouri.edu](mailto:mhr6wb@missouri.edu)</div> |
+| <div align="left" style="display: flex; align-items: center;">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)</div> | <div align="left" style="display: flex; align-items: center;">[Mahady Hasan Rayhan](https://www.linkedin.com/in/mahadyhasanrayhan/)</div> |
+| <div align="left" style="display: flex; align-items: center;">![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)</div> | <div align="left" style="display: flex; align-items: center;">[mahadyRayhan](https://github.com/mahadyRayhan)</div> |
 
 
 
