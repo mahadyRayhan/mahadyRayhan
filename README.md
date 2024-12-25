@@ -51,14 +51,13 @@ I'm a **Ph.D. Candidate in Computer Science** at the *University of Missouri-Col
 
 ---
 
-### 📫 Let's Connect!
+### 📩 Connect With Me  
 
-| Platform                                                      | Link                                                                        |
-| :------------------------------------------------------------ | :-------------------------------------------------------------------------- |
-| <img alt="LinkedIn" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />  | [LinkedIn](https://www.linkedin.com/in/mahadyhasanrayhan/)                    |
-| <img alt="GitHub" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />        | [GitHub](https://github.com/mahadyRayhan)                                   |
-| <img alt="Email" width="20px" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />            | [Email](mailto:mhr6wb@missouri.edu)                                        |
-
+| **Contact Method** | **Link** |
+|--------------------|----------|
+| <div align="left" style="display: flex; align-items: center;">![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)</div> | <div align="left" style="display: flex; align-items: center;">[mhr6wb@missouri.edu](mailto:mhr6wb@missouri.edu)</div> |
+| <div align="left" style="display: flex; align-items: center;">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)</div> | <div align="left" style="display: flex; align-items: center;">[Mahady Hasan Rayhan](https://www.linkedin.com/in/mahadyhasanrayhan/)</div> |
+| <div align="left" style="display: flex; align-items: center;">![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)</div> | <div align="left" style="display: flex; align-items: center;">[mahadyRayhan](https://github.com/mahadyRayhan)</div> |
 ---
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss exciting AI research opportunities!
