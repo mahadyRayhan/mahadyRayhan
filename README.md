@@ -14,24 +14,32 @@ I'm a **Ph.D. Candidate in Computer Science** at the *University of Missouri-Col
 
 ### 📊 My GitHub Profile in Action
 
-<p align="center">
-  <a href="https://github.com/mahadyRayhan">
-    <img width="445" height="300" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahadyRayhan&show_icons=true&theme=radical&count_private=true&bg_color=181818&title_color=27AE60&text_color=FFFFFF&icon_color=27AE60&border_color=44475A"/>
-    <img width="445" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadyRayhan&theme=radical&background=181818&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=27AE60&sideLabels=FFFFFF&dates=FFFFFF&fire=27AE60&ring=27AE60&border=44475A"/>
-  </a>
-</p>
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 5px;">
 
-<p align="center">
-  <a href="https://github.com/mahadyRayhan">
-    <img width="895" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadyRayhan&layout=compact&theme=radical&bg_color=181818&title_color=27AE60&text_color=FFFFFF" alt="Top Languages" />
-  </a>
-</p>
+  <div>
+    <a href="https://github.com/mahadyRayhan">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahadyRayhan&show_icons=true&theme=radical&count_private=true&bg_color=181818&title_color=27AE60&text_color=FFFFFF&icon_color=27AE60&border_color=44475A" alt="GitHub Stats" style="width: 100%; max-width: 445px; height: auto;"/>
+    </a>
+  </div>
 
-<p align="center">
-  <a href="https://github.com/mahadyRayhan">
-    <img width="895" height="230" src="https://ghchart.rshah.org/27AE60/mahadyRayhan" alt="2024 GitHub Activity Chart" />
-  </a>
-</p>
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://github.com/mahadyRayhan">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadyRayhan&theme=radical&background=181818&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=27AE60&sideLabels=FFFFFF&dates=FFFFFF&fire=27AE60&ring=27AE60&border=44475A" alt="GitHub Streak" style="width: 49%; height: 200px; object-fit: cover;"/>
+    </a>
+    <a href="https://github.com/mahadyRayhan" style="display: flex; justify-content: flex-end;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadyRayhan&layout=compact&theme=radical&bg_color=181818&title_color=27AE60&text_color=FFFFFF" alt="Top Languages" style="width: 50%; height: 200px; object-fit: cover;"/>
+    </a>
+  </div>
+
+  <div>
+    <a href="https://github.com/mahadyRayhan">
+      <img src="https://ghchart.rshah.org/27AE60/mahadyRayhan" alt="2024 GitHub Activity Chart" style="width: 100%; max-width: 445px; height: auto;"/>
+    </a>
+  </div>
+
+</div>
+
+
 
 ### ⚡ Recent Highlights (2024)
 
