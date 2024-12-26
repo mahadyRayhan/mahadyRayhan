@@ -64,6 +64,42 @@ I'm a **Ph.D. Candidate in Computer Science** at the *University of Missouri-Col
 
 ---
 
+### 🔥 Pinned Repositories
+
+<div align="center">
+  <!-- Row 1 -->
+  <div style="display: flex; justify-content: space-between; width: 100%;">
+    <a href="https://github.com/mahadyRayhan/Docker_ML_webapp" style="width: 48%;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadyRayhan&repo=Docker_ML_webapp&theme=radical" alt="Docker_ML_webapp" style="width: 49%;"/>
+    </a>
+    <a href="https://github.com/mahadyRayhan/AppImage-linux-executable" style="width: 48%;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadyRayhan&repo=AppImage-linux-executable&theme=radical" alt="AppImage-linux-executable" style="width: 49%;"/>
+    </a>
+  </div>
+
+  <!-- Row 2 -->
+  <div style="display: flex; justify-content: space-between; width: 100%;">
+    <a href="https://github.com/mahadyRayhan/Multi-label-Model-vs-Multi-output-model" style="width: 48%;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadyRayhan&repo=Multi-label-Model-vs-Multi-output-model&theme=radical" alt="Multi-label-Model-vs-Multi-output-model" style="width: 49%;"/>
+    </a>
+    <a href="https://github.com/mahadyRayhan/TensorImageClassification" style="width: 48%;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadyRayhan&repo=TensorImageClassification&theme=radical" alt="TensorImageClassification" style="width: 49%;"/>
+    </a>
+  </div>
+
+  <!-- Row 3 -->
+  <div style="display: flex; justify-content: space-between; width: 100%;">
+    <a href="https://github.com/mahadyRayhan/Sentiment-Analysis-Web-App" style="width: 48%;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadyRayhan&repo=Sentiment-Analysis-Web-App&theme=radical" alt="Sentiment-Analysis-Web-App" style="width: 49%;"/>
+    </a>
+    <a href="https://github.com/mahadyRayhan/Tensorflow-2-Object-Detection" style="width: 48%;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadyRayhan&repo=Tensorflow-2-Object-Detection&theme=radical" alt="Tensorflow-2-Object-Detection" style="width: 49%;"/>
+    </a>
+  </div>
+</div>
+
+
+
 ### 🌟 Featured Projects
 
 | Project                                                     | Description                                                                  |
