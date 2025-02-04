@@ -24,7 +24,8 @@ I'm a **Ph.D. Candidate in Computer Science** at the *University of Missouri-Col
 
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <a href="https://github.com/mahadyRayhan">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadyRayhan&theme=radical&background=181818&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=27AE60&sideLabels=FFFFFF&dates=FFFFFF&fire=27AE60&ring=27AE60&border=FFFFFF" alt="GitHub Streak" style="width: 49%; height: 200px; object-fit: cover;"/>
+<!--       <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadyRayhan&theme=radical&background=181818&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=27AE60&sideLabels=FFFFFF&dates=FFFFFF&fire=27AE60&ring=27AE60&border=FFFFFF" alt="GitHub Streak" style="width: 49%; height: 200px; object-fit: cover;"/> -->
+      <img src="https://streak-stats.demolab.com/?user=mahadyRayhan&theme=radical" alt="GitHub Streak"/>
     </a>
     <a href="https://github.com/mahadyRayhan" style="display: flex; justify-content: flex-end;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadyRayhan&layout=compact&theme=radical&bg_color=181818&title_color=27AE60&text_color=FFFFFF" alt="Top Languages" style="width: 50%; height: 200px; object-fit: cover;"/>
